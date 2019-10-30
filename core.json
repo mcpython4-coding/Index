@@ -1,18 +1,22 @@
 {
   "original latest": {
     "url": "https://github.com/fogleman/Minecraft/archive/master.zip",
-    "stable": true
+    "stable": true,
+    "main": "main.py"
   },
   "active latest": {
     "url": "https://github.com/mcpython4-coding/core/archive/master.zip",
-    "stable": false
+    "stable": false,
+    "main": "__main__.py"
   },
   "active stable": {
     "url": null,
-    "stable": true
+    "stable": true,
+    "main": "__main__.py"
   },
   "19w44a:": {
     "url": "https://github.com/mcpython4-coding/core/archive/683286213b6f5579a0fc808a77df96f1fd406f2a.zip",
-    "stable": false
+    "stable": false,
+    "main": "__main__.py"
   }
 }

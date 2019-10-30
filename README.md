@@ -7,6 +7,8 @@ there is an core.json file in this project which contains the following data str
 
 "url": url,  // may be null if not provided 
 
-"stable": stable
+"stable": stable,
+
+"main": main  // where to launch from
 
 }
