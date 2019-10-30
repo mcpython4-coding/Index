@@ -19,4 +19,6 @@ possibile:
 
 ]
 
+} or {
+"link": link to another version
 }

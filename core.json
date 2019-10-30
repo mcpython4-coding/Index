@@ -4,14 +4,7 @@
     "stable": true,
     "main": "main.py"
   },
-  "active_latest": {
-    "url": "https://github.com/mcpython4-coding/core/archive/master.zip",
-    "stable": false,
-    "main": "__main__.py",
-    "modifications": [
-      {"mode": "remove", "path": "mods/TestMod"}
-    ]
-  },
+  "active_latest": { "link": "19w44a" },
   "active_stable": {
     "url": null,
     "stable": true,
