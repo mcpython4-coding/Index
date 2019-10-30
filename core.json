@@ -4,7 +4,7 @@
     "stable": true,
     "main": "main.py"
   },
-  "active latest": {
+  "active_latest": {
     "url": "https://github.com/mcpython4-coding/core/archive/master.zip",
     "stable": false,
     "main": "__main__.py"
