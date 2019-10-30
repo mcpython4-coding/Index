@@ -1,0 +1,14 @@
+{
+  "original latest": {
+    "url": "https://github.com/fogleman/Minecraft/archive/master.zip",
+    "stable": true
+  },
+  "active latest": {
+    "url": "https://github.com/mcpython4-coding/core/archive/master.zip",
+    "stable": false
+  },
+  "active stable": {
+    "url": null,
+    "stable": true
+  }
+}
