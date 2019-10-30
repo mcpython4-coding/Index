@@ -11,4 +11,12 @@ there is an core.json file in this project which contains the following data str
 
 "main": main  // where to launch from
 
+"modifications": [  // some form of source-modification
+
+possibile:
+
+{"mode": "remove", "path": path to remove, relative to source}
+
+]
+
 }
