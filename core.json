@@ -31,5 +31,13 @@
     "modifications": [
       {"mode": "remove", "path": "mods/TestMod"}
     ]
+  },
+  "19w45a": {
+    "url": "https://github.com/mcpython4-coding/core/archive/565f7fad3242ef57b5a7c3d6061fdf4325e3a732.zip",
+    "stable": false,
+    "main": "__main__.py",
+    "modifications": [
+      {"mode": "remove", "path": "mods/TestMod"}
+    ]
   }
 }
