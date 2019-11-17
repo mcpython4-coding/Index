@@ -10,7 +10,7 @@
       {"mode": "replace", "path": "{v}/main.py", "from": "time.clock()", "to": "time.time()"}
     ]
   },
-  "active_latest": { "link": "19w46a" },
+  "active_latest": { "link": "19w46b" },
   "active_stable": {
     "url": null,
     "stable": true,
@@ -48,8 +48,8 @@
       {"mode": "remove", "path": "mods/TestMod"}
     ]
   },
-  "19w46a": {
-    "url": "https://github.com/mcpython4-coding/core/archive/5f299201a19cc3b325d31597ba1cd7a589190b58.zip",
+  "19w46b": {
+    "url": "https://github.com/mcpython4-coding/core/archive/4332f5938c95de10fd75951b6de1c031083d74ea.zip",
     "stable": false,
     "main": "__main__.py",
     "modifications": [
