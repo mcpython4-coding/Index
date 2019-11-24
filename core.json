@@ -1,6 +1,6 @@
 {
-  "INDEX VERSION": "1.0.0",
-  "OLD VERSION LINKS": {},
+  "INDEX VERSION": "1.0.1",
+  "OLD VERSION LINKS": {"1.0.0": "https://raw.githubusercontent.com/mcpython4-coding/Index/2b1ce2130cc439fabe15c527570727f3ac2e7551/core.json"},
   "original_latest": {
     "url": "https://github.com/fogleman/Minecraft/archive/master.zip",
     "stable": true,
@@ -10,47 +10,17 @@
       {"mode": "replace", "path": "{v}/main.py", "from": "time.clock()", "to": "time.time()"}
     ]
   },
-  "active_latest": { "link": "19w46b" },
+  "active_latest": {
+    "url": "https://github.com/mcpython4-coding/core/archive/master.zip",
+    "stable": false,
+    "main": "__main__.py",
+    "modifications": [
+      {"mode": "remove", "path": "mods/TestMod"}
+    ]
+  },
   "active_stable": {
-    "url": null,
+    "url": "https://github.com/mcpython4-coding/core/archive/release.zip",
     "stable": true,
-    "main": "__main__.py"
-  },
-  "19w44a": {
-    "url": "https://github.com/mcpython4-coding/core/archive/f63551338539094c2199b19d1d6ffca962475caf.zip",
-    "stable": false,
-    "main": "__main__.py",
-    "modifications": [
-      {"mode": "remove", "path": "mods/TestMod"}
-    ]
-  },
-  "19w44b": {
-    "url": "https://github.com/mcpython4-coding/core/archive/91d6684dc0c77d1544016fc1ceb493aae6143885.zip",
-    "stable": false,
-    "main": "__main__.py",
-    "modifications": [
-      {"mode": "remove", "path": "mods/TestMod"}
-    ]
-  },
-  "19w45a": {
-    "url": "https://github.com/mcpython4-coding/core/archive/565f7fad3242ef57b5a7c3d6061fdf4325e3a732.zip",
-    "stable": false,
-    "main": "__main__.py",
-    "modifications": [
-      {"mode": "remove", "path": "mods/TestMod"}
-    ]
-  },
-  "19w46a": {
-    "url": "https://github.com/mcpython4-coding/core/archive/5f299201a19cc3b325d31597ba1cd7a589190b58.zip",
-    "stable": false,
-    "main": "__main__.py",
-    "modifications": [
-      {"mode": "remove", "path": "mods/TestMod"}
-    ]
-  },
-  "19w46b": {
-    "url": "https://github.com/mcpython4-coding/core/archive/4332f5938c95de10fd75951b6de1c031083d74ea.zip",
-    "stable": false,
     "main": "__main__.py",
     "modifications": [
       {"mode": "remove", "path": "mods/TestMod"}
