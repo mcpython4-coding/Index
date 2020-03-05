@@ -11,7 +11,7 @@
     ]
   },
   "active_latest": {
-    "url": "https://github.com/mcpython4-coding/core/archive/master.zip",
+    "url": "https://github.com/mcpython4-coding/core/archive/dev.zip",
     "stable": false,
     "main": "__main__.py",
     "modifications": [
