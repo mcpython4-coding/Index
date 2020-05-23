@@ -7,6 +7,60 @@
   "versions": {
     "dev_unstable": [
       {
+        "name": "dev:b9ac9d4247bb90d7d28751ec53d9c690e7a9610c",
+        "url": "https://github.com/mcpython4-coding/core/archive/b9ac9d4247bb90d7d28751ec53d9c690e7a9610c.zip",
+        "main": "__main__.py",
+        "change": "cleanup for the new block system"
+      },
+      {
+        "name": "dev:ba6fe474a096c45a944380d8fd4e600b819ea1a0",
+        "url": "https://github.com/mcpython4-coding/core/archive/ba6fe474a096c45a944380d8fd4e600b819ea1a0.zip",
+        "main": "__main__.py",
+        "change": "improved factory system"
+      },
+      {
+        "name": "dev:76738d0ebbb4f125a69c43fca921ffe309027861",
+        "url": "https://github.com/mcpython4-coding/core/archive/76738d0ebbb4f125a69c43fca921ffe309027861.zip",
+        "main": "__main__.py",
+        "change": "some cleanup to chat stuff"
+      },
+      {
+        "name": "dev:2e71bd556546de1ad0cabab9ddc1de7ca5be5dba",
+        "url": "https://github.com/mcpython4-coding/core/archive/2e71bd556546de1ad0cabab9ddc1de7ca5be5dba.zip",
+        "main": "__main__.py",
+        "change": "updated SaveFile.py doc"
+      },
+      {
+        "name": "dev:5d7477638a474cd05246aa2db20c8460fb6b604d",
+        "url": "https://github.com/mcpython4-coding/core/archive/5d7477638a474cd05246aa2db20c8460fb6b604d.zip",
+        "main": "__main__.py",
+        "change": "config is now used internally also in reading, not only writing of config"
+      },
+      {
+        "name": "dev:ccbf3a019d98c88af20bd8f5451c01b2b9199e27",
+        "url": "https://github.com/mcpython4-coding/core/archive/ccbf3a019d98c88af20bd8f5451c01b2b9199e27.zip",
+        "main": "__main__.py",
+        "change": "implemented basic"
+      },
+      {
+        "name": "dev:f51e22cfd2db0d65ade4d2d861b87fc6f1c91e67",
+        "url": "https://github.com/mcpython4-coding/core/archive/f51e22cfd2db0d65ade4d2d861b87fc6f1c91e67.zip",
+        "main": "__main__.py",
+        "change": "some code improvements"
+      },
+      {
+        "name": "dev:a553d9429c57418f81f4fec36bfe2136dceafa9e",
+        "url": "https://github.com/mcpython4-coding/core/archive/a553d9429c57418f81f4fec36bfe2136dceafa9e.zip",
+        "main": "__main__.py",
+        "change": "added more bins"
+      },
+      {
+        "name": "dev:c1522b8ec1c3062ab973a0cb89b3bbd48c0c0670",
+        "url": "https://github.com/mcpython4-coding/core/archive/c1522b8ec1c3062ab973a0cb89b3bbd48c0c0670.zip",
+        "main": "__main__.py",
+        "change": "improved ModLoader.py"
+      },
+      {
         "name": "dev:806e4365cc0533d00e875f407300eb4515c45ae6",
         "url": "https://github.com/mcpython4-coding/core/archive/806e4365cc0533d00e875f407300eb4515c45ae6.zip",
         "main": "__main__.py",
