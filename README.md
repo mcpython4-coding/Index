@@ -3,22 +3,7 @@ These Repo contains index files which give programms like the launcher informati
 
 How is the information formatted?
 there is an core.json file in this project which contains the following data structure:
-<version name> -> {
 
-"url": url,  // may be null if not provided 
-
-"stable": stable,
-
-"main": main  // where to launch from
-
-"modifications": [  // some form of source-modification
-
-possibile:
-
-{"mode": "remove", "path": path to remove, relative to source}
-
-]
-
-} or {
-"link": link to another version
+"builds": {
+    <name>: \[<build names>]
 }
