@@ -5,5 +5,5 @@ How is the information formatted?
 there is an core.json file in this project which contains the following data structure:
 
 "builds": {
-    <name>: \[<build names>]
+    <name as the target build to>: \[<build names list as found in the builds-folder>]
 }
