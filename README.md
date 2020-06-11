@@ -7,3 +7,7 @@ there is an core.json file in this project which contains the following data str
 "builds": {
     <name as the target build to>: \[<build names list as found in the builds-folder>]
 }
+
+TODO's
+-
+More versions in the index! create an build by hand, modify source where needed!
